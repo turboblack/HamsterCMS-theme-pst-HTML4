@@ -1,4 +1,4 @@
-# HamasteCMS-theme-pst-HTML4
+# HamsterCMS-theme-pst-HTML4
 
 https://github.com/turboblack/HamsterCMS "pst" HTML4 theme for HamsterCMS
 
